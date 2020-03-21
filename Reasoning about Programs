@@ -1,0 +1,21 @@
+Reasoning about Programs
+https://www.cs.purdue.edu/academic-programs/courses/canonical/cs560.html
+
+
+
+The course focuses on the logical foundations and algorithmic techniques used to ensure program correctness. 
+With an emphasis on automated program verification and synthesis, the course covers classical concepts and
+techniques such as Hoare logic, abstract interpretation, abstraction-refinement and bounded model checking.
+
+The course also exposes students to approaches for program synthesis – a new frontier for program reasoning -  
+such as inductive synthesis, synthesis using version space algebras, constraint-based synthesis and synthesis 
+based on machine-learning techniques. The courses emphasizes both theoretical foundations as well as hands-on 
+experience with verification/synthesis tools and SAT/SMT solvers.   
+
+
+
+
+
+
+
+
